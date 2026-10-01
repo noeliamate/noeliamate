@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Noelia
+
+I am a final-year **Cybersecurity & Artificial Intelligence** student at the **Universidad de Málaga (UMA)**.
+
+I have a strong interest in both fields—securing systems and data, as well as exploring the capabilities and applications of AI. Currently completing my degree and open to learning, collaborating, and taking on new challenges.
+
+---
+
+### Connect with me
+- **LinkedIn:** [www.linkedin.com/in/noelia-mate-ocón-629311362
+- **Reach me at:** noeliamateocon@gmail.com
 
 <!--
 **noeliamate/noeliamate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
