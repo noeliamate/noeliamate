@@ -7,8 +7,8 @@ I have a strong interest in both fields—securing systems and data, as well as 
 ---
 
 ### Connect with me
-- **LinkedIn:** [www.linkedin.com/in/noelia-mate-ocón-629311362
-- **Reach me at:** noeliamateocon@gmail.com
+- **LinkedIn:** www.linkedin.com/in/noelia-mate-ocón-629311362
+- **Email:** noeliamateocon@gmail.com
 
 <!--
 **noeliamate/noeliamate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
